@@ -41,10 +41,14 @@ font-family: monospace;
 }
 .viTri{
     width: 100%;
-    height: 400px;
+    min-height: 400px;
 }
 .viTri iframe{
     width: 100%;
-    height: 90%;
+    height: 350px;
+}
+.fb-comments{
+    position: absolute;
+    left: 30%;
 }
 
